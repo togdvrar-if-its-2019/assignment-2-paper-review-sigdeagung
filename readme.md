@@ -90,6 +90,17 @@ Games can evoke empathy in us. They can make us desire to be kind. They can help
 
 But they can also give us an easy way to tell ourselves that we are good people, that we always choose the good side, the light side, and always without making us do the work that being a good person actually requires.
 
+In Darksouls, there's this one curious feature where you can see a blood stain of somewhere others died, and sometimes, when you realized you also died the same way before, you feel a tiny pang for the person who just went trough that same thing you understand he just lost progress and souls.
+
+> [Example of blood stain](https://www.youtube.com/watch?v=JlWSwdY6mDM)
+
+That is unmistakable moment of empathy experienced through a game, and I acted on it, deciding to leave a message to warn other player about the hazard, not for the reward it'll give me, but so that people, you've never met and will never meet won't have to suffer the same way you did.
+
+> [Example of message](https://youtu.be/sVLvmk2ofVw?t=58)
+
+
+That is kind of incredible when you think about it, it's part of what makes dark souls such a communal experience, even if you play the whole thing by yourself. but most game don't do nearly as well
+
 We all had a moment where a game asked us to save a planet, rescue a cat, help villagers slay a dangerous monster, and the game tell us that these are good acts, and we are good people for doing them. We are even often given a goodness stat (*reputation, affection points, etc*), so that we know just how good we were for helping out. The problem though, is that we really weren't.
 
 Empathetic acts fundamentally about doing something for someone other than yourself. but in so many games where you have your heroic moments. That moment is really about you, not about whomever you're helping.
@@ -104,14 +115,7 @@ The question of
 
 Isn't something the game even makes you think about, half of the time, we're really only doing any of these good things because we figure it's what the game wants us to do, the plot and objectives.
 
-.
-.
-.
 
-.
-.
-
-. 
 
 
 For this, I want to give an example. My absolute favorite game of all times. At The Game Awards 2017, the game won the award for "Best Score/Music" and was nominated for "Best Narrative" and "Best Role-Playing Game".
@@ -126,19 +130,7 @@ I don't think I'm able to explain the plot of the game, so I leave it to the exp
 
 [Nier Automata True Ending, 34:34 - 39:48](https://youtu.be/63PzQIbTrM8?t=2074)
 
-.
 
-.
-
-.
-
-.
-
-.
-
-.
-
-.
 
 It cost you everything you've worked for in this game, the hundred of hours you've invested, all the items you found, all the levels you gained, all the side quest and parts of the story you never saw, you won't get a chance to finish them unless you start the game over.
 
